@@ -1,4 +1,4 @@
-# ex1-using
+# ex1
 
 Simple library for checking sequence
 
