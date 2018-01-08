@@ -1,6 +1,6 @@
 <?php
 
-namespace otus\user\ugraweb\ex1\ValidatorSequence;
+namespace otus\user\ugraweb\ex1;
 
 use InvalidArgumentException;
 

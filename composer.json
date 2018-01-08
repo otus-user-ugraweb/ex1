@@ -1,14 +1,15 @@
 {
     "name": "otus-user-ugraweb/ex1",
+    "type": "library",
     "description": "some text",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "require": {
         "phpunit/phpunit": "6.5.5"
     },
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "otus\\user\\ugraweb\\ex1\\": "src"
+        }
     }
 }

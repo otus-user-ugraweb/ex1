@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-use otus\user\ugraweb\ex1\ValidatorSequence\ValidatorSequence;
+use otus\user\ugraweb\ex1\ValidatorSequence;
 use PHPUnit\Framework\TestCase;
 
 final class ValidatorSequenceTest extends TestCase
