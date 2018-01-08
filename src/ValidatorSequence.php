@@ -1,5 +1,9 @@
 <?php
 
+namespace otus\user\ugraweb\ex1\ValidatorSequence;
+
+use InvalidArgumentException;
+
 class ValidatorSequence
 {
     private $inputStr;
