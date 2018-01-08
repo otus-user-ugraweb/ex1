@@ -1,7 +1,7 @@
 {
     "name": "otus-user-ugraweb/ex1",
     "description": "some text",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "phpunit/phpunit": "6.5.5"
     },
