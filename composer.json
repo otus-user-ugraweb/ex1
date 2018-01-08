@@ -1,7 +1,7 @@
 {
     "name": "otus-user-ugraweb/ex1",
     "type": "library",
-    "description": "some text",
+    "description": "Simple library for checking sequence",
     "license": "MIT",
     "version": "1.0.0",
     "require": {
