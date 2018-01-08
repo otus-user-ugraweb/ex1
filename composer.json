@@ -1,0 +1,13 @@
+{
+    "name": "otus-user-ugraweb/ex1",
+    "description": "some text",
+    "version": "1.0.0",
+    "require": {
+        "phpunit/phpunit": "6.5.5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
