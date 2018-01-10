@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Simple library for checking sequence",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "require": {
     },
     "autoload": {
